@@ -1,0 +1,15 @@
+Kadıköy / Altıyol Boğa Heykeli — kaynak ve lisans
+
+Heykel: Isidore Bonheur, bronz boğa (1864).
+Fotoğraf: Ersinbaba, “Bull sculpture by Isidore Bonheur in Istanbul,Türkiye.jpg”, 30 Haziran 2024.
+Kaynak: https://commons.wikimedia.org/wiki/File:Bull_sculpture_by_Isidore_Bonheur_in_Istanbul,T%C3%BCrkiye.jpg
+Fotoğraf lisansı: Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0).
+Lisans metni: https://creativecommons.org/licenses/by-sa/4.0/
+Orijinal fotoğraf SHA-1: 3aa5e41a6ed1f4cf75c5fde1f22224b6341c38ee
+
+Değişiklikler: Altiyol_profil.png, fotoğraftan elle çizilmiş arka plan maskesi ve kırpmadır.
+3B uyarlamada fotoğraftaki profil noktaları anatomik kesitler olarak yorumlandı.
+Görünmeyen hacim ve arka yüz modellenmiş; fotoğrafın piksel dokusu heykelin üzerine yapıştırılmamıştır.
+Blender kaynağı, FBX, AltiyolBogasi.bytes ağı ve bu modele ait önizleme görüntüleri de CC BY-SA 4.0 ile sunulur.
+Bu kapsam yalnız anılan referans/uyarlama varlıklarına ilişkindir; fotoğrafçı oyuna onay vermiş veya katkıda bulunmuş sayılmaz.
+Üretim: Pati İstanbul için 2026-11-03 tarihli Blender profil çalışması.
