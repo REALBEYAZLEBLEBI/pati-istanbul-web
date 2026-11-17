@@ -1,0 +1,27 @@
+{
+ "build": "2026-11-17c",
+ "files": {
+  "index.html": 8143,
+  ".nojekyll": 0,
+  "TemplateData/unity-logo-title-footer.png": 1151,
+  "TemplateData/progress-bar-full-dark.png": 74,
+  "TemplateData/fullscreen-button.png": 175,
+  "TemplateData/webmemd-icon.png": 1670,
+  "TemplateData/style.css": 1448,
+  "TemplateData/unity-logo-light.png": 3077,
+  "TemplateData/favicon.ico": 2305,
+  "TemplateData/progress-bar-empty-light.png": 109,
+  "TemplateData/progress-bar-full-light.png": 84,
+  "TemplateData/progress-bar-empty-dark.png": 96,
+  "TemplateData/unity-logo-dark.png": 3042,
+  "TemplateData/MemoryProfiler.png": 665,
+  "Build/56a4b4e8d6ad37100307d1305d3caf70.framework.js.unityweb": 90683,
+  "Build/dae4acf738a168f2139c174aace5f32a.data.unityweb.part0": 47185920,
+  "Build/7e4a6bc150b89912cda5064b8eb01bca.wasm.unityweb": 13325287,
+  "Build/dae4acf738a168f2139c174aace5f32a.data.unityweb.part1": 47185920,
+  "Build/dae4acf738a168f2139c174aace5f32a.data.unityweb.part2": 47185920,
+  "Build/dae4acf738a168f2139c174aace5f32a.data.unityweb.part3": 7118101,
+  "Build/eec65c551af2db2a6acf06933efd0c22.loader.js": 47866,
+  "StreamingAssets/Licenses/Altiyol.txt": 1184
+ }
+}
